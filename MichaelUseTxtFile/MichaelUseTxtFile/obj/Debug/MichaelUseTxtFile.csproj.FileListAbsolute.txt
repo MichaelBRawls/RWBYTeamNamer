@@ -1,0 +1,6 @@
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\bin\Debug\MichaelUseTxtFile.exe.config
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\bin\Debug\MichaelUseTxtFile.exe
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\bin\Debug\MichaelUseTxtFile.pdb
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\obj\Debug\MichaelUseTxtFile.csprojResolveAssemblyReference.cache
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\obj\Debug\MichaelUseTxtFile.exe
+c:\users\glich_000\documents\visual studio 2015\Projects\MichaelUseTxtFile\MichaelUseTxtFile\obj\Debug\MichaelUseTxtFile.pdb
